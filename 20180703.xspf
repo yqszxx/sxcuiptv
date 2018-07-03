@@ -1,0 +1,1668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>播放列表</title>
+	<trackList>
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.11:3048/</location>
+		<title>1山西卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>0</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.12:3224/</location>
+		<title>2中国黄河电视台</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>1</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.13:3225/</location>
+		<title>3山西经济资讯</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>2</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.14:3226/</location>
+		<title>4山西影视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>3</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.15:3227/</location>
+		<title>5山西科教</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>4</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.16:3228/</location>
+		<title>6山西公共</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>5</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.17:3229/</location>
+		<title>7山西少儿</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>6</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.18:3017/</location>
+		<title>8CCTV-1综合</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>7</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.19:3018/</location>
+		<title>9CCTV-2财经</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>8</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.20:3024/</location>
+		<title>10CCTV-3综艺</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>9</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.21:3036/</location>
+		<title>11CCTV-4国际</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>10</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.22:3025/</location>
+		<title>12CCTV-5体育</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>11</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.23:3026/</location>
+		<title>13CCTV-6电影</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>12</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.24:3019/</location>
+		<title>14CCTV-7军事.农业</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>13</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.25:3027/</location>
+		<title>15CCTV-8电视剧</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>14</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.26:3037/</location>
+		<title>16CCTV-9纪录片</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>15</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.27:3020/</location>
+		<title>17CCTV-10科学.教育</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>16</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.28:3021/</location>
+		<title>18CCTV-11戏曲</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>17</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.29:3022/</location>
+		<title>19CCTV-12社会与法</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>18</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.30:3029/</location>
+		<title>20CCTV-13新闻</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>19</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.31:3023/</location>
+		<title>21CCTV-14少儿</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>20</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.32:3028/</location>
+		<title>22CCTV-15音乐</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>21</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.33:3011/</location>
+		<title>23湖南卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>22</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.34:3015/</location>
+		<title>24东方卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>23</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.35:3033/</location>
+		<title>25辽宁卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>24</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.36:3046/</location>
+		<title>26浙江卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>25</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.37:3056/</location>
+		<title>27安徽卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>26</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.38:3034/</location>
+		<title>28江苏卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>27</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.39:3058/</location>
+		<title>29北京卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>28</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.40:3010/</location>
+		<title>30福建东南卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>29</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.41:3012/</location>
+		<title>31金鹰卡通</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>30</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.42:3013/</location>
+		<title>32四川卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>31</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.43:3014/</location>
+		<title>33贵州卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>32</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.44:3016/</location>
+		<title>34炫动卡通</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>33</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.45:3030/</location>
+		<title>35广东卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>34</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.46:3031/</location>
+		<title>36广西卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>35</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.47:3032/</location>
+		<title>37深圳卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>36</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.48:3063/</location>
+		<title>38黑龙江卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>37</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.49:3042/</location>
+		<title>39湖北卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>38</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.50:3045/</location>
+		<title>40重庆卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>39</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.51:3047/</location>
+		<title>41山东卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>40</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.52:3049/</location>
+		<title>42河南卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>41</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.53:3051/</location>
+		<title>43陕西卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>42</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.54:3053/</location>
+		<title>44江西卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>43</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.55:3055/</location>
+		<title>45甘肃卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>44</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.56:3057/</location>
+		<title>46天津卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>45</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.57:3059/</location>
+		<title>47卡酷动画</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>46</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.58:3065/</location>
+		<title>48吉林卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>47</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.59:3043/</location>
+		<title>49青海卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>48</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.60:3066/</location>
+		<title>50云南卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>49</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.61:3067/</location>
+		<title>51旅游卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>50</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.62:3061/</location>
+		<title>52健康卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>51</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.63:3044/</location>
+		<title>53内蒙古卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>52</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.64:3050/</location>
+		<title>54宁夏卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>53</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.65:3060/</location>
+		<title>55河北卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>54</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.66:3068/</location>
+		<title>56西藏卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>55</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.67:3071/</location>
+		<title>57新疆卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>56</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.68:3039/</location>
+		<title>58中国教育台-1</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>57</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.69:3040/</location>
+		<title>59中国教育台-2</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>58</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.70:3041/</location>
+		<title>60空中课堂</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>59</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.71:3195/</location>
+		<title>61彩民在线</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>60</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.72:3196/</location>
+		<title>62老年福</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>61</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.73:3130/</location>
+		<title>63CNC 中文</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>62</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.121:3156/</location>
+		<title>64CFC 金融</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>63</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.75:3070/</location>
+		<title>65电视指南</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>64</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.141:3230/</location>
+		<title>66精彩轮播</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>65</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.76:3118/</location>
+		<title>67东方财经</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>66</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.78:3121/</location>
+		<title>68游戏风云</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>67</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.79:3122/</location>
+		<title>69劲爆体育</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>68</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.80:3125/</location>
+		<title>70法制天地</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>69</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.81:3127/</location>
+		<title>71都市剧场</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>70</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.82:3128/</location>
+		<title>72极速汽车</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>71</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.83:3129/</location>
+		<title>73魅力音乐</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>72</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.84:3132/</location>
+		<title>74生活时尚</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>73</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.85:3117/</location>
+		<title>75卫生健康</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>74</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.86:3124/</location>
+		<title>76动漫秀场</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>75</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.87:3126/</location>
+		<title>77欢笑 剧场</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>76</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.88:3131/</location>
+		<title>78金色频道</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>77</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.89:3180/</location>
+		<title>79说文解字</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>78</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.90:3200/</location>
+		<title>80英语辅导</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>79</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.91:3203/</location>
+		<title>81央视精品</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>80</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.92:3205/</location>
+		<title>82风云音乐</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>81</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.93:3210/</location>
+		<title>83第一剧场</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>82</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.94:3211/</location>
+		<title>84世界地理</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>83</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.95:3215/</location>
+		<title>85汽摩</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>84</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.96:3217/</location>
+		<title>86靓妆</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>85</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.97:3197/</location>
+		<title>87武术世界</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>86</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.98:3204/</location>
+		<title>88国防军事</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>87</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.99:3193/</location>
+		<title>89早期教育</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>88</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.100:3214/</location>
+		<title>90DV生活</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>89</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.101:3220/</location>
+		<title>91孕育指南</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>90</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.102:3186/</location>
+		<title>92书画</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>91</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.103:3201/</location>
+		<title>93摄影频道</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>92</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.104:3206/</location>
+		<title>94怀旧剧场</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>93</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.105:3081/</location>
+		<title>95风云足球</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>94</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.106:3218/</location>
+		<title>96留学世界</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>95</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.107:3177/</location>
+		<title>97新科动漫</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>96</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.108:3178/</location>
+		<title>98茶频道</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>97</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.110:3190/</location>
+		<title>99文物宝库</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>98</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.111:3183/</location>
+		<title>100环球奇观</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>99</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.112:3185/</location>
+		<title>101老故事</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>100</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.113:3188/</location>
+		<title>102女性时尚</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>101</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.114:3216/</location>
+		<title>103游戏竞技</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>102</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.115:3219/</location>
+		<title>104梨园</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>103</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.116:3192/</location>
+		<title>105宝贝家</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>104</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.117:3191/</location>
+		<title>106现代女性</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>105</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.118:3209/</location>
+		<title>107风云剧场</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>106</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.119:3136/</location>
+		<title>108优优宝贝</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>107</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.120:3138/</location>
+		<title>109新娱乐</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>108</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.74:3064/</location>
+		<title>110电竞世界</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>109</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.122:3142/</location>
+		<title>111时代风尚</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>110</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.123:3146/</location>
+		<title>112四海钓鱼</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>111</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.124:3139/</location>
+		<title>113说文解字</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>112</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.125:3140/</location>
+		<title>114时代美食</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>113</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.126:3144/</location>
+		<title>115时代家居</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>114</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.127:3137/</location>
+		<title>116环球旅游</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>115</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.128:3134/</location>
+		<title>117考试 在线</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>116</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.129:3154/</location>
+		<title>118家庭理财</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>117</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.130:3145/</location>
+		<title>119山东教育</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>118</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.131:3161/</location>
+		<title>120家政</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>119</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.132:3143/</location>
+		<title>121百姓健康</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>120</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.133:3147/</location>
+		<title>122快乐 宠物</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>121</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.134:3149/</location>
+		<title>123电子 体育</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>122</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.135:3150/</location>
+		<title>124碟市</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>123</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.136:3151/</location>
+		<title>125职业 指南</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>124</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.138:3133/</location>
+		<title>127读书</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>125</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.139:3162/</location>
+		<title>128财富 天下</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>126</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.140:3090/</location>
+		<title>129DVXTV(音像世界)</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>127</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.77:3120/</location>
+		<title>130全纪实new</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>128</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.155:3231/</location>
+		<title>501党员教育</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>129</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.181:3232/</location>
+		<title>502长钢电视台</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>130</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.156:3085/</location>
+		<title>601山西卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>131</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.157:3086/</location>
+		<title>621CCTV-1高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>132</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.158:3087/</location>
+		<title>622CCTV-2高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>133</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.163:3097/</location>
+		<title>627CCTV-7高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>134</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.165:3093/</location>
+		<title>629CCTV-9高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>135</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.166:3099/</location>
+		<title>630CCTV-10高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>136</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.168:3100/</location>
+		<title>632CCTV-12高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>137</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.170:3094/</location>
+		<title>634CCTV-14高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>138</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.172:3096/</location>
+		<title>636CCTV5＋高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>139</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.146:3075/</location>
+		<title>641湖南卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>140</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.147:3076/</location>
+		<title>642浙江卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>141</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.148:3077/</location>
+		<title>643安徽卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>142</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.149:3078/</location>
+		<title>644广东卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>143</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.150:3079/</location>
+		<title>645深圳卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>144</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.153:3083/</location>
+		<title>646天津卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>145</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.154:3084/</location>
+		<title>647山东卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>146</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.152:3082/</location>
+		<title>648湖北卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>147</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.151:3080/</location>
+		<title>649黑龙江卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>148</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.177:3101/</location>
+		<title>650辽宁卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>149</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.178:3102/</location>
+		<title>651重庆卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>150</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.183:3106/</location>
+		<title>652东方卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>151</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.184:3107/</location>
+		<title>653江苏卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>152</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.185:3108/</location>
+		<title>654北京卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>153</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.186:3109/</location>
+		<title>655河北卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>154</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.187:3110/</location>
+		<title>656四川卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>155</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.188:3116/</location>
+		<title>657贵州卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>156</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.191:3114/</location>
+		<title>658中国教育1高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>157</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.194:3119/</location>
+		<title>659福建东南卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>158</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.179:3104/</location>
+		<title>701朔州一台</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>159</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.180:3105/</location>
+		<title>702朔州二台</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>160</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.193:3250/</location>
+		<title>709和顺电视台</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>161</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.195:3123/</location>
+		<title>721孝义频道</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>162</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.189:3112/</location>
+		<title>801劲爆体育高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>163</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.190:3113/</location>
+		<title>802动漫秀场高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>164</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://192.168.1.132:8888/udp/226.0.1.192:3115/</location>
+		<title>803幸福彩高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>165</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
+			<vlc:item tid="23"/>
+			<vlc:item tid="24"/>
+			<vlc:item tid="25"/>
+			<vlc:item tid="26"/>
+			<vlc:item tid="27"/>
+			<vlc:item tid="28"/>
+			<vlc:item tid="29"/>
+			<vlc:item tid="30"/>
+			<vlc:item tid="31"/>
+			<vlc:item tid="32"/>
+			<vlc:item tid="33"/>
+			<vlc:item tid="34"/>
+			<vlc:item tid="35"/>
+			<vlc:item tid="36"/>
+			<vlc:item tid="37"/>
+			<vlc:item tid="38"/>
+			<vlc:item tid="39"/>
+			<vlc:item tid="40"/>
+			<vlc:item tid="41"/>
+			<vlc:item tid="42"/>
+			<vlc:item tid="43"/>
+			<vlc:item tid="44"/>
+			<vlc:item tid="45"/>
+			<vlc:item tid="46"/>
+			<vlc:item tid="47"/>
+			<vlc:item tid="48"/>
+			<vlc:item tid="49"/>
+			<vlc:item tid="50"/>
+			<vlc:item tid="51"/>
+			<vlc:item tid="52"/>
+			<vlc:item tid="53"/>
+			<vlc:item tid="54"/>
+			<vlc:item tid="55"/>
+			<vlc:item tid="56"/>
+			<vlc:item tid="57"/>
+			<vlc:item tid="58"/>
+			<vlc:item tid="59"/>
+			<vlc:item tid="60"/>
+			<vlc:item tid="61"/>
+			<vlc:item tid="62"/>
+			<vlc:item tid="63"/>
+			<vlc:item tid="64"/>
+			<vlc:item tid="65"/>
+			<vlc:item tid="66"/>
+			<vlc:item tid="67"/>
+			<vlc:item tid="68"/>
+			<vlc:item tid="69"/>
+			<vlc:item tid="70"/>
+			<vlc:item tid="71"/>
+			<vlc:item tid="72"/>
+			<vlc:item tid="73"/>
+			<vlc:item tid="74"/>
+			<vlc:item tid="75"/>
+			<vlc:item tid="76"/>
+			<vlc:item tid="77"/>
+			<vlc:item tid="78"/>
+			<vlc:item tid="79"/>
+			<vlc:item tid="80"/>
+			<vlc:item tid="81"/>
+			<vlc:item tid="82"/>
+			<vlc:item tid="83"/>
+			<vlc:item tid="84"/>
+			<vlc:item tid="85"/>
+			<vlc:item tid="86"/>
+			<vlc:item tid="87"/>
+			<vlc:item tid="88"/>
+			<vlc:item tid="89"/>
+			<vlc:item tid="90"/>
+			<vlc:item tid="91"/>
+			<vlc:item tid="92"/>
+			<vlc:item tid="93"/>
+			<vlc:item tid="94"/>
+			<vlc:item tid="95"/>
+			<vlc:item tid="96"/>
+			<vlc:item tid="97"/>
+			<vlc:item tid="98"/>
+			<vlc:item tid="99"/>
+			<vlc:item tid="100"/>
+			<vlc:item tid="101"/>
+			<vlc:item tid="102"/>
+			<vlc:item tid="103"/>
+			<vlc:item tid="104"/>
+			<vlc:item tid="105"/>
+			<vlc:item tid="106"/>
+			<vlc:item tid="107"/>
+			<vlc:item tid="108"/>
+			<vlc:item tid="109"/>
+			<vlc:item tid="110"/>
+			<vlc:item tid="111"/>
+			<vlc:item tid="112"/>
+			<vlc:item tid="113"/>
+			<vlc:item tid="114"/>
+			<vlc:item tid="115"/>
+			<vlc:item tid="116"/>
+			<vlc:item tid="117"/>
+			<vlc:item tid="118"/>
+			<vlc:item tid="119"/>
+			<vlc:item tid="120"/>
+			<vlc:item tid="121"/>
+			<vlc:item tid="122"/>
+			<vlc:item tid="123"/>
+			<vlc:item tid="124"/>
+			<vlc:item tid="125"/>
+			<vlc:item tid="126"/>
+			<vlc:item tid="127"/>
+			<vlc:item tid="128"/>
+			<vlc:item tid="129"/>
+			<vlc:item tid="130"/>
+			<vlc:item tid="131"/>
+			<vlc:item tid="132"/>
+			<vlc:item tid="133"/>
+			<vlc:item tid="134"/>
+			<vlc:item tid="135"/>
+			<vlc:item tid="136"/>
+			<vlc:item tid="137"/>
+			<vlc:item tid="138"/>
+			<vlc:item tid="139"/>
+			<vlc:item tid="140"/>
+			<vlc:item tid="141"/>
+			<vlc:item tid="142"/>
+			<vlc:item tid="143"/>
+			<vlc:item tid="144"/>
+			<vlc:item tid="145"/>
+			<vlc:item tid="146"/>
+			<vlc:item tid="147"/>
+			<vlc:item tid="148"/>
+			<vlc:item tid="149"/>
+			<vlc:item tid="150"/>
+			<vlc:item tid="151"/>
+			<vlc:item tid="152"/>
+			<vlc:item tid="153"/>
+			<vlc:item tid="154"/>
+			<vlc:item tid="155"/>
+			<vlc:item tid="156"/>
+			<vlc:item tid="157"/>
+			<vlc:item tid="158"/>
+			<vlc:item tid="159"/>
+			<vlc:item tid="160"/>
+			<vlc:item tid="161"/>
+			<vlc:item tid="162"/>
+			<vlc:item tid="163"/>
+			<vlc:item tid="164"/>
+			<vlc:item tid="165"/>
+	</extension>
+</playlist>
